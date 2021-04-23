@@ -1,0 +1,24 @@
+|directories|
+|pdb_dir|../pdbs/|
+|fasta_dir|../data/|
+
+|topology_dictionary|
+|molecule_name |color         |fasta_fn  |fasta_id |pdb_fn                  |chain |residue_range |pdb_offset |bead_size |em_residues_per_gaussian |rigid_body |super_rigid_body |chain_of_super_rigid_bodies |
+|xrccA         |medium purple |fasta.txt |xrccA    |LX1_P_X2_P_chain_wt.pdb |A     |1,200         |0          |1         |0                        |1          |0                |                            |
+|xrccB         |goldenrod     |fasta.txt |xrccB    |LX1_P_X2_P_chain_wt.pdb |B     |1,200         |0          |1         |0                        |1          |0                |                            |
+|lig4          |olive drab    |fasta.txt |lig4     |LX1_P_X2_P_chain_wt.pdb |C     |654,END       |-653       |1         |0                        |1          |0                |                            |
+|pnkpA         |orchid        |fasta.txt |pnkp     |LX1_P_X2_P_chain_wt.pdb |D     |136,END       |0          |1         |0                        |2          |0                |                            |
+|pnkpB         |aquamarine    |fasta.txt |pnkp     |LX1_P_X2_P_chain_wt.pdb |E     |136,END       |0          |1         |0                        |3          |0                |                            |
+|pnkpA         |orchid        |fasta.txt |pnkp     |LX1_P_X2_P_chain_wt.pdb |D     |1,107         |0          |1         |0                        |4          |0                |                            |
+|xrccA         |medium purple |fasta.txt |xrccA    |LX1_P_X2_P_chain_wt.pdb |A     |227,235       |0          |1         |0                        |4          |0                |                            |
+|pnkpB         |aquamarine    |fasta.txt |pnkp     |LX1_P_X2_P_chain_wt.pdb |E     |1,107         |0          |1         |0                        |5          |0                |                            |
+|xrccB         |goldenrod     |fasta.txt |xrccB    |LX1_P_X2_P_chain_wt.pdb |B     |227,235       |0          |1         |0                        |5          |0                |                            |
+|xrccA         |medium purple |fasta.txt |xrccA    |BEADS                   |A     |201,226       |0          |1         |0                        |           |0                |                            |
+|xrccA         |medium purple |fasta.txt |xrccA    |BEADS                   |A     |236,238       |0          |1         |0                        |           |0                |                            |
+|xrccB         |goldenrod     |fasta.txt |xrccB    |BEADS                   |B     |201,226       |0          |1         |0                        |           |0                |                            |
+|xrccB         |goldenrod     |fasta.txt |xrccB    |BEADS                   |B     |236,238       |0          |1         |0                        |           |0                |                            |
+|pnkpA         |orchid        |fasta.txt |pnkpA    |BEADS                   |D     |108,135       |0          |1         |0                        |           |0                |                            |
+|pnkpB         |aquamarine    |fasta.txt |pnkpB    |BEADS                   |E     |108,135       |0          |1         |0                        |           |0                |                            |
+
+
+
